@@ -1,0 +1,94 @@
+2025-10-25 14:48:21 | INFO | promptclock.scheduler:16 | Scheduler started
+2025-10-25 14:48:21 | INFO | promptclock.storage:34 | Loaded 1 prompt(s) from C:\Users\Sai\Downloads\Project Kairos\data\prompts.json
+2025-10-25 14:48:21 | INFO | promptclock.scheduler:29 | Job 'demo1' scheduled at 2025-10-25 14:36:30
+2025-10-25 14:48:21 | INFO | promptclock.main:45 | Scheduled 1 prompt(s)
+2025-10-25 14:48:21 | INFO | promptclock.main:47 | PromptClock is running. Keep this window open.
+2025-10-25 14:48:21 | INFO | promptclock.main:48 | Move mouse to top-left corner anytime to abort typing safely.
+2025-10-25 14:51:14 | INFO | promptclock.scheduler:16 | Scheduler started
+2025-10-25 14:51:14 | INFO | promptclock.storage:34 | Loaded 1 prompt(s) from C:\Users\Sai\Downloads\Project Kairos\data\prompts.json
+2025-10-25 14:51:14 | INFO | promptclock.scheduler:29 | Job 'demo1' scheduled at 2025-10-25 14:36:30
+2025-10-25 14:51:14 | INFO | promptclock.main:45 | Scheduled 1 prompt(s)
+2025-10-25 14:51:14 | INFO | promptclock.main:47 | PromptClock is running. Keep this window open.
+2025-10-25 14:51:14 | INFO | promptclock.main:48 | Move mouse to top-left corner anytime to abort typing safely.
+2025-10-25 14:51:23 | INFO | promptclock.main:30 | Shutting down PromptClock...
+2025-10-25 14:51:23 | INFO | promptclock.scheduler:20 | Scheduler stopped
+2025-10-25 14:51:48 | INFO | promptclock.scheduler:16 | Scheduler started
+2025-10-25 14:51:48 | INFO | promptclock.storage:34 | Loaded 1 prompt(s) from C:\Users\Sai\Downloads\Project Kairos\data\prompts.json
+2025-10-25 14:51:48 | INFO | promptclock.scheduler:29 | Job 'demo1' scheduled at 2025-10-25 14:52:10
+2025-10-25 14:51:48 | INFO | promptclock.main:45 | Scheduled 1 prompt(s)
+2025-10-25 14:51:48 | INFO | promptclock.main:47 | PromptClock is running. Keep this window open.
+2025-10-25 14:51:48 | INFO | promptclock.main:48 | Move mouse to top-left corner anytime to abort typing safely.
+2025-10-25 14:52:10 | INFO | promptclock.main:15 | Triggered job 'demo1' — executing now
+2025-10-25 14:52:10 | WARNING | promptclock.window:14 | No window found containing 'New Tab'
+2025-10-25 14:52:10 | ERROR | promptclock.main:18 | Could not focus Comet window for 'demo1'
+2025-10-25 14:52:26 | INFO | promptclock.main:30 | Shutting down PromptClock...
+2025-10-25 14:52:26 | INFO | promptclock.scheduler:20 | Scheduler stopped
+2025-10-25 14:52:40 | INFO | promptclock.scheduler:16 | Scheduler started
+2025-10-25 14:52:40 | INFO | promptclock.storage:34 | Loaded 1 prompt(s) from C:\Users\Sai\Downloads\Project Kairos\data\prompts.json
+2025-10-25 14:52:40 | INFO | promptclock.scheduler:29 | Job 'demo1' scheduled at 2025-10-25 14:52:50
+2025-10-25 14:52:40 | INFO | promptclock.main:45 | Scheduled 1 prompt(s)
+2025-10-25 14:52:40 | INFO | promptclock.main:47 | PromptClock is running. Keep this window open.
+2025-10-25 14:52:40 | INFO | promptclock.main:48 | Move mouse to top-left corner anytime to abort typing safely.
+2025-10-25 14:52:50 | INFO | promptclock.main:15 | Triggered job 'demo1' — executing now
+2025-10-25 14:52:50 | INFO | promptclock.window:23 | Focused window via pygetwindow: 'New Tab - Comet'
+2025-10-25 14:52:50 | INFO | promptclock.typer:19 | Typing 80 characters...
+2025-10-25 14:52:52 | INFO | promptclock.typer:22 | Message sent
+2025-10-25 14:52:52 | INFO | promptclock.main:21 | Prompt 'demo1' sent successfully
+2025-10-25 14:55:44 | INFO | promptclock.scheduler:16 | Scheduler started
+2025-10-25 14:55:44 | INFO | promptclock.storage:34 | Loaded 1 prompt(s) from C:\Users\Sai\Downloads\Project Kairos\data\prompts.json
+2025-10-25 14:55:44 | INFO | promptclock.scheduler:29 | Job 'demo1' scheduled at 2025-10-25 14:55:50
+2025-10-25 14:55:44 | INFO | promptclock.main:45 | Scheduled 1 prompt(s)
+2025-10-25 14:55:44 | INFO | promptclock.main:47 | PromptClock is running. Keep this window open.
+2025-10-25 14:55:44 | INFO | promptclock.main:48 | Move mouse to top-left corner anytime to abort typing safely.
+2025-10-25 14:55:50 | INFO | promptclock.main:15 | Triggered job 'demo1' — executing now
+2025-10-25 14:55:50 | INFO | promptclock.window:23 | Focused window via pygetwindow: 'New Tab - Comet'
+2025-10-25 14:55:50 | INFO | promptclock.typer:19 | Typing 57 characters...
+2025-10-25 14:55:51 | INFO | promptclock.typer:22 | Message sent
+2025-10-25 14:55:51 | INFO | promptclock.main:21 | Prompt 'demo1' sent successfully
+2025-10-25 14:56:42 | INFO | promptclock.main:30 | Shutting down PromptClock...
+2025-10-25 14:56:42 | INFO | promptclock.scheduler:20 | Scheduler stopped
+2025-10-25 14:56:59 | INFO | promptclock.scheduler:16 | Scheduler started
+2025-10-25 14:56:59 | INFO | promptclock.storage:34 | Loaded 1 prompt(s) from C:\Users\Sai\Downloads\Project Kairos\data\prompts.json
+2025-10-25 14:56:59 | INFO | promptclock.scheduler:29 | Job 'demo1' scheduled at 2025-10-25 14:57:10
+2025-10-25 14:57:00 | INFO | promptclock.main:45 | Scheduled 1 prompt(s)
+2025-10-25 14:57:00 | INFO | promptclock.main:47 | PromptClock is running. Keep this window open.
+2025-10-25 14:57:00 | INFO | promptclock.main:48 | Move mouse to top-left corner anytime to abort typing safely.
+2025-10-25 14:57:10 | INFO | promptclock.main:15 | Triggered job 'demo1' — executing now
+2025-10-25 14:57:10 | INFO | promptclock.window:23 | Focused window via pygetwindow: 'New Tab - Comet'
+2025-10-25 14:57:10 | INFO | promptclock.typer:19 | Typing 57 characters...
+2025-10-25 14:57:11 | INFO | promptclock.typer:22 | Message sent
+2025-10-25 14:57:11 | INFO | promptclock.main:21 | Prompt 'demo1' sent successfully
+2025-10-25 15:03:34 | INFO | promptclock.scheduler:16 | Scheduler started
+2025-10-25 15:03:34 | INFO | promptclock.storage:34 | Loaded 1 prompt(s) from C:\Users\Sai\Downloads\Project Kairos\data\prompts.json
+2025-10-25 15:03:34 | INFO | promptclock.scheduler:29 | Job 'demo1' scheduled at 2025-10-25 14:57:10
+2025-10-25 15:03:34 | INFO | promptclock.main:47 | Scheduled 1 prompt(s)
+2025-10-25 15:03:34 | INFO | promptclock.main:49 | PromptClock is running. Keep this window open.
+2025-10-25 15:03:34 | INFO | promptclock.main:50 | Move mouse to top-left corner anytime to abort typing safely.
+2025-10-25 15:03:37 | INFO | promptclock.main:32 | Shutting down PromptClock...
+2025-10-25 15:03:37 | INFO | promptclock.scheduler:20 | Scheduler stopped
+2025-10-25 15:03:56 | INFO | promptclock.scheduler:16 | Scheduler started
+2025-10-25 15:03:56 | INFO | promptclock.storage:34 | Loaded 1 prompt(s) from C:\Users\Sai\Downloads\Project Kairos\data\prompts.json
+2025-10-25 15:03:56 | INFO | promptclock.scheduler:29 | Job 'demo1' scheduled at 2025-10-25 15:04:10
+2025-10-25 15:03:56 | INFO | promptclock.main:47 | Scheduled 1 prompt(s)
+2025-10-25 15:03:56 | INFO | promptclock.main:49 | PromptClock is running. Keep this window open.
+2025-10-25 15:03:56 | INFO | promptclock.main:50 | Move mouse to top-left corner anytime to abort typing safely.
+2025-10-25 15:04:10 | INFO | promptclock.main:15 | Triggered job 'demo1'
+2025-10-25 15:04:10 | WARNING | promptclock.window:26 | No window found containing 'Comet'
+2025-10-25 15:04:11 | WARNING | promptclock.window:26 | No window found containing 'Comet'
+2025-10-25 15:04:12 | WARNING | promptclock.window:26 | No window found containing 'Comet'
+2025-10-25 15:04:12 | ERROR | promptclock.main:23 | ❌ Job 'demo1' failed after retries: Window not found
+2025-10-25 15:04:19 | INFO | promptclock.main:32 | Shutting down PromptClock...
+2025-10-25 15:04:19 | INFO | promptclock.scheduler:20 | Scheduler stopped
+2025-10-25 15:04:43 | INFO | promptclock.scheduler:16 | Scheduler started
+2025-10-25 15:04:43 | INFO | promptclock.storage:34 | Loaded 1 prompt(s) from C:\Users\Sai\Downloads\Project Kairos\data\prompts.json
+2025-10-25 15:04:43 | INFO | promptclock.scheduler:29 | Job 'demo1' scheduled at 2025-10-25 15:04:45
+2025-10-25 15:04:43 | INFO | promptclock.main:47 | Scheduled 1 prompt(s)
+2025-10-25 15:04:43 | INFO | promptclock.main:49 | PromptClock is running. Keep this window open.
+2025-10-25 15:04:43 | INFO | promptclock.main:50 | Move mouse to top-left corner anytime to abort typing safely.
+2025-10-25 15:04:45 | INFO | promptclock.main:15 | Triggered job 'demo1'
+2025-10-25 15:04:45 | INFO | promptclock.window:34 | Focused window via pygetwindow: 'New Tab - Comet'
+2025-10-25 15:04:45 | INFO | promptclock.typer:32 | Typing 57 characters...
+2025-10-25 15:04:46 | INFO | promptclock.typer:35 | Message sent
+2025-10-25 15:04:46 | INFO | promptclock.main:21 | ✅ Prompt 'demo1' sent successfully
+2025-10-25 15:05:17 | INFO | promptclock.main:32 | Shutting down PromptClock...
+2025-10-25 15:05:17 | INFO | promptclock.scheduler:20 | Scheduler stopped
