@@ -1,9 +1,8 @@
-APScheduler==3.10.4
-pyautogui==0.9.54
-pygetwindow==0.0.9
-pywinauto==0.6.8
-pydantic==2.9.2
-pydantic-settings==2.11.0
-python-dateutil==2.9.0.post0
-click==8.1.7
-tenacity==9.0.0
+APScheduler
+pyautogui
+pygetwindow
+pywin32
+pywinauto
+pydantic
+python-dateutil
+click
