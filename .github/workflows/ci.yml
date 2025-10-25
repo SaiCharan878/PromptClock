@@ -8,29 +8,46 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
+      # Step 1: Checkout repo
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # Step 2: Set up Python
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
+      # Step 3: Install dependencies
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt || true
           pip install -r requirements-dev.txt
 
+      # Step 4: Run Black (code formatter)
       - name: Run Black
         run: black --check .
 
+      # Step 5: Run Ruff (linter)
+      # Ruff checks for stylistic and logical issues
       - name: Run Ruff
         run: ruff check .
 
+      # Step 6: Run Mypy (type checker)
       - name: Run Mypy
         run: mypy promptclock
 
+      # Step 7: Run Pytest (unit tests)
       - name: Run Pytest
         run: pytest -v
+
+      # Step 8: Upload test results (optional but useful)
+      - name: Archive test results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: pytest-results
+          path: ./.pytest_cache
